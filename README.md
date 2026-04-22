@@ -39,7 +39,7 @@ NestFinder/
 │   ├── models/
 │   │   └── room.dart          # Định nghĩa cấu trúc, interface và abstract class
 │   │
-│   └── repositories/
+│   └── controllers/
 │       └── list_room.dart     # Quản lý danh sách (Repository Pattern) và logic CRUD
 │
 ├── README.md                  # Tài liệu dự án
